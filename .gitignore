@@ -19,3 +19,13 @@
 
 # Go workspace file
 go.work
+
+# Others
+target/
+out/
+m2e-wtp/
+.settings/
+.idea/
+*.iml
+.classpath
+.project
